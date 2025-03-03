@@ -1,4 +1,4 @@
-public class CircleArea {
+public class areaOfCircle {
     public static void main(String[] args) {
         double radius = 5.0; // Static radius value
         double area = Math.PI * radius * radius;
